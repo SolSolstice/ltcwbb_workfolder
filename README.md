@@ -3,18 +3,6 @@ These are the files for the book [Learn to Code with Baseball](https://codebaseb
 
 
 
-
-You don't have to do anything with these right now except know where you put
-them. For example, on my mac, I have them in my home directory:
-
-`/Users/nathanbraun/ltcwbb-files`
-
-If I were using Windows, it might look like this:
-
-`C:\Users\nathanbraun\ltcwbb-files`
-
-Set these aside for now and we'll pick them up in chapter 2.
-
 ## Changelog
 ### v0.9.1 (2023-01-01)
 Fixed some formatting and footnote typos (thanks Paul!).
